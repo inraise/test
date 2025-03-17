@@ -12,6 +12,7 @@ int main(int argc, char **argv)
     printf("Hello, %s %s!\n", first, last);
 	printf("Hello, %s %s!\n", first, last);
 
+<<<<<<< HEAD
  printf("Hello, %s %s!\n", first, last);
 	printf("Hello, %s %s!\n", first, last);
    askname(first, last);
@@ -35,5 +36,7 @@ int main(int argc, char **argv)
 	printf("Hello, %s %s!\n", first, last);
     return 0;
 
+=======
+>>>>>>> parent of 0a77ae2 (ХУЙ)
     return 0;
 }
